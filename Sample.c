@@ -6,7 +6,7 @@ int main()
   a=10;
   b=20;
   sum=a+b;
-  cout<<sum;
+  printf("%d",s);
   return 0;
   }
   
